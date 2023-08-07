@@ -40,4 +40,4 @@ img align="right" alt="Coding" width="400" src=”https://tenor.com/en-GB/view/p
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pari19970&show_icons=true&locale=en&layout=compact" alt="pari1997" /></p>
 
-![image](https://github.com/Pari199707/Pari199707/assets/121976856/fa33ad05-af6e-4773-a037-a1e9fa0f6b92)
+
