@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Parinitha B S</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-img align="right" alt="Coding" width="400" src=”https://tenor.com/en-GB/view/python-beloved-my-beloved-coding-programming-gif-23762816"
 
 - 📫 How to reach me **parinithabs8@gmail.com**
 
